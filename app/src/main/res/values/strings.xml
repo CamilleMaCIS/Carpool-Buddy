@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Carpool Buddy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_first_name">Enter First Name</string>
+    <string name="hint_last_name">Enter Last Name</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="name">Name</string>
+    <string name="seats_left">Seats Left:</string>
+    <string name="welcome_to_carpool_buddy">Welcome to\nCarpool Buddy!</string>
+    <string name="add_a_ride">Add A Ride</string>
+    <string name="book_ride">Book Ride</string>
+    <string name="open_ride">Open Ride</string>
+    <string name="close_ride">Close Ride</string>
+    <string name="cancel_ride">Cancel Ride</string>
+    <string name="available_rides">Available Rides</string>
+    <string name="refresh">Refresh</string>
+    <string name="your_owned_vehicles">Your Owned Vehicles</string>
+    <string name="your_booked_vehicles">Your Booked Vehicles</string>
+    <string name="see_available_vehicles">See Available Vehicles</string>
+    <string name="see_your_vehicles">See Your Vehicles</string>
+    <string name="see_your_bookings">See Your Bookings</string>
+    <string name="blank_space"> </string>
+    <string-array name="vehicles">
+        <item>Car</item>
+        <item>Electric Car</item>
+        <item>Bicycle</item>
+        <item>Motorcycle</item>
+        <item>Bus</item>
+        <item>Truck</item>
+        <item>Van</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Alumni</item>
+        <item>Parent</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+</resources>

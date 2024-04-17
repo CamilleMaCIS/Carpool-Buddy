@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "380906641607",
+    "project_id": "carpool-buddy-acb65",
+    "storage_bucket": "carpool-buddy-acb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380906641607:android:ba3c07f6ea33295c8dc6e2",
+        "android_client_info": {
+          "package_name": "com.example.carpool_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380906641607-ac67f84eg74i6do9hj1ska9sal3gn5d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carpool_buddy",
+            "certificate_hash": "8826c7678b75ab18699a0475e1abf8223461701d"
+          }
+        },
+        {
+          "client_id": "380906641607-h82l7kaqc30f521fbfbdkdqib0kilu44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xNRD1xvUBjFS_FzyJKLlb2AmqEzirJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380906641607-h82l7kaqc30f521fbfbdkdqib0kilu44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
